@@ -1,5 +1,5 @@
 # ThisIsNotHumanGenerator
-A python code which generate profile with first and last name and a picture from "https://thispersondoesnotexist.com/"
+A python code which generate profile with first name, last name, and a picture from "https://thispersondoesnotexist.com/"
 
 #How to use it ? 
 
